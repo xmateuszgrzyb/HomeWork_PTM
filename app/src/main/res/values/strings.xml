@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Homework_1</string>
+    <string name="Contact_1">Klaudia</string>
+    <string name="Contact_2">Krzychu</string>
+    <string name="Contact_3">Mamusia</string>
+    <string name="Contact_4">Julka</string>
+    <string name="Contact_5">Kinga Kowalska</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Select">Select</string>
+    <string name="current_contact_str">aktualny kontakt</string>
+    <string name="back_message">Powrót nie przez przycisk</string>
+    <string name="ChangeSound">Zmień dzwonek</string>
+    <string name="wrongChoice">Brak wyboru!</string>
+    <string name="back_message2">Powrot do dzwonka poprzedniego</string>
+</resources>

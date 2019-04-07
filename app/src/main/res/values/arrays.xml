@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mySoundsArray">
+        <item> default_ring </item>
+        <item> sound_1 </item>
+        <item> sound_2 </item>
+        <item> sound_3 </item>
+        <item> sound_4 </item>
+        <item> sound_5 </item>
+    </string-array>
+</resources>
